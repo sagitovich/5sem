@@ -1,0 +1,3 @@
+/Users/a.sagitovich/programming/BFU/5 sem/Системы реального времени/lab7/cmake-build-debug/CMakeFiles/lab7.dir
+/Users/a.sagitovich/programming/BFU/5 sem/Системы реального времени/lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/a.sagitovich/programming/BFU/5 sem/Системы реального времени/lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
